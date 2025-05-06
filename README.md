@@ -4,12 +4,11 @@
 ---
 
 - 🎓 I'm currently studying **Computer Engineering** at **ESPRIT Engineering School**
-- 🗓️ Born on **10/12/2002**
 - 💻 I'm skilled in:
   - Backend: **Laravel, Symfony, Spring Boot, Java**
   - Frontend: **Vue.js, HTML, CSS, JavaScript**
   - Mobile: **Kotlin, JavaFX, Android, Flutter**
-- 📊 Passionate about **Data Analysis**, **Software Architecture**, and **IoT**
+- 📊 Passionate about **Data Analysis**, **AI**, and **IoT**
 - 💼 I'm working on [GoldenTouch-Symfony](https://github.com/rayenayed2002/GoldenTouch-Symfony)
 
 ---
@@ -49,7 +48,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-rayenayed2002-black?style=flat-square&logo=github">
   </a>
   <a href="https://www.instagram.com/rayenayed2002/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-rayenayed2002-E4405F?style=flat-square&logo=instagram&logoColor=white">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-ayed.rayen-E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
 </p>
 
