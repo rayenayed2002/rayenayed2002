@@ -44,14 +44,13 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/rayenayed2002" target="_blank">
+  <a href="https://github.com/rayenayed200" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-rayenayed2002-black?style=flat-square&logo=github">
   </a>
-  <a href="https://www.instagram.com/rayenayed2002/" target="_blank">
+  <a href="https://www.instagram.com/ayed.rayen/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-ayed.rayen-E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
 </p>
 
 ---
-
 > ⭐ *"Striving to become a top engineer and build meaningful solutions — one commit at a time."*
