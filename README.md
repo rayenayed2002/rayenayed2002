@@ -8,7 +8,7 @@
 - 🎓 Second-year **Computer Engineering** student at **ESPRIT Engineering School** (Tunisia)
 - 💼 Passionate about building scalable backend systems, data pipelines, and industrializing Machine Learning through MLOps practices
 - 🔍 Currently focusing on **Backend Development**, **MLOps**, **ETL processes**, and **Business Intelligence** solutions
-- 🌱 Always improving my skills by working on end-to-end data-driven projects
+- 🌱 Always improving my skills by working on full-stack and data-driven projects
 
 ---
 
@@ -21,12 +21,13 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 **MLOps & Business Intelligence**  
 **MLflow** • **Talend (ETL)** • **Power BI** • **Docker** • **Apache Airflow** • **n8n** • **Pydantic** • Scikit-learn
 
 **Other**  
-Git • RESTful APIs • SQL • Linux • Problem Solving
+Git • RESTful APIs • SQL • MongoDB • Linux • Problem Solving
 
 ---
 
@@ -34,22 +35,32 @@ Git • RESTful APIs • SQL • Linux • Problem Solving
 
 #### **SASA Mobility** — Urban Mobility Risk Prediction (MLOps Project)
 
-**End-to-End MLOps Pipeline** for predicting mobility risk levels using urban data (traffic, NO₂, etc.).
+End-to-End **MLOps pipeline** for predicting mobility risk levels using urban data (traffic, NO₂, etc.).
 
-- Designed and implemented a complete industrialized Machine Learning pipeline
-- Performed experiment tracking and model comparison (Logistic Regression, Random Forest, Gradient Boosting) using **MLflow**
-- Built an automated training pipeline for data preprocessing, model training, evaluation, and selection
-- Developed a production-ready model serving API using **FastAPI** with **Pydantic** validation
-- Containerized the full architecture with **Docker Compose**
-- Integrated the ML model into a web application for real-time predictions
+- Designed and implemented an automated Machine Learning pipeline with experiment tracking using **MLflow**
+- Built a production-ready serving API using **FastAPI** + **Pydantic**
+- Containerized the entire architecture with **Docker Compose**
+- Integrated the model into a web application for real-time predictions
 
 **Technologies**: Python, FastAPI, MLflow, Docker, Django, Scikit-learn
 
-[View Project →](https://github.com/rayenayed2002/SASA-Mobility)
+[View Project →](https://github.com/xnamoussa/whisperprojectem)
+
+#### **EPMA** — Educational Project Management Application
+
+Full-stack web platform for managing educational projects, student assignments, milestones, and academic workflows with real-time collaboration.
+
+- Developed the **frontend** using React, Redux Toolkit, Chakra UI, and Socket.io
+- Implemented responsive UI/UX, state management, and real-time features
+- Contributed to backend architecture and API integration
+
+**Technologies**: React, Node.js, Express.js, MongoDB, Socket.io, Chakra UI
+
+[View Project →](https://github.com/rayenayed2002/ProjectManagementApp)
 
 #### **GoldenTouch** — Full-Featured Web Application
 
-Complete web platform developed with the Symfony PHP framework.
+Complete web platform built with Symfony PHP framework.
 
 **Technologies**: Symfony, PHP, Twig, Doctrine ORM, MySQL
 
