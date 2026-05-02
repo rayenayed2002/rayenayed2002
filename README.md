@@ -53,5 +53,5 @@ Now in 2nd year at **ESPRIT Engineering School** (Computer Engineering).
  
 Internship opportunities in **MLOps** or **Data Engineering**.
  
-[LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/rayen-ayed-20594b238/)) · [Email](mailto:ayed.rayen09@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rayen-ayed-20594b238/) · [Email](mailto:ayed.rayen09@gmail.com)
  
