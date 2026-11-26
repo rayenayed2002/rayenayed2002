@@ -22,7 +22,7 @@ Extended with an observability layer using Prometheus metrics, Grafana dashboard
 
 `Python` `Scikit-learn` `FastAPI` `MLflow` `Docker` `Prometheus` `Grafana`
 
-### Aquila — Sentiment Analysis & Quality Control Pipeline
+### [Aquila — Sentiment Analysis & Quality Control Pipeline ](https://github.com/rayenayed2002/aquila-customer-reviews-analysis)
 *Data Science Internship*
 
 Developed an end-to-end NLP pipeline to automate sentiment analysis of customer reviews and generate weekly quality reports.
