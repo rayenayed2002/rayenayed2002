@@ -1,81 +1,106 @@
 # Rayen Ayed
 
-**Final-Year Computer Engineering Student · MLOps & Data Engineering**
+**Final-Year Computer Engineering Student | ML Engineering & MLOps**
 
 ESPRIT Engineering School, Tunisia
 
-I'm interested in the part of ML that most people skip — getting models to actually run, stay healthy, and fail gracefully in production. I've been building hands-on experience in MLOps observability, pipeline automation, NLP, and data engineering, with a focus on turning machine learning models into reliable, end-to-end systems.
+I'm a final-year Computer Engineering student interested in ML Engineering and MLOps. I enjoy building end-to-end machine learning systems, from data ingestion and model experimentation to API serving, containerization, and monitoring.
+
+Through academic and internship projects, I've gained hands-on experience with Python, Docker, MLflow, FastAPI, Flask, Elasticsearch, and observability tools such as Prometheus and Grafana.
+
+I'm currently looking for opportunities to grow as an **ML Engineer or MLOps Engineer**.
 
 ---
 
 ## Projects & Experience
 
-**Aquila — Sentiment Analysis & Quality Control Pipeline** *(Data Science Internship)*
+### [Urban Mobility — End-to-End MLOps System](https://github.com/xnamoussa/whisperprojectem)
 
-End-to-end NLP pipeline designed to automate sentiment analysis of customer reviews and generate weekly quality reports. Covers data collection through SerpAPI, Elasticsearch storage and indexing, NLP preprocessing, ML/DL model training and evaluation, and automated HTML/PDF reporting with sentiment analytics and negative-topic identification.
+End-to-end MLOps system built on top of an urban data warehouse containing mobility and environmental data (traffic, NO₂, etc.). Covers data ingestion, ML pipeline development, MLflow experiment tracking, FastAPI model serving, and Docker deployment.
 
-`Python` `NLP` `Scikit-learn` `TensorFlow` `spaCy` `Elasticsearch` `Kibana` `Docker` `Flask`
+Extended with an observability layer using Prometheus metrics, Grafana dashboards, drift detection, automated alerting, and simulated production incidents.
 
-**[Urban Mobility — End-to-End MLOps System](https://github.com/xnamoussa/whisperprojectem)**
+`Python` `Scikit-learn` `FastAPI` `MLflow` `Docker` `Prometheus` `Grafana`
 
-End-to-end MLOps system built on top of an urban data warehouse (traffic, NO₂, etc.). Covers data ingestion, ML pipeline orchestration, MLflow experiment tracking, FastAPI model serving, and Docker deployment. Extended with production observability through Prometheus metrics, Grafana dashboards, drift detection, automated alerting, and simulated production incidents.
+### Aquila — Sentiment Analysis & Quality Control Pipeline
+*Data Science Internship*
 
-`Python` `FastAPI` `MLflow` `Docker` `Prometheus` `Grafana` `Scikit-learn`
+Developed an end-to-end NLP pipeline to automate sentiment analysis of customer reviews and generate weekly quality reports.
 
-**[EPMA — Project Management Platform](https://github.com/rayenayed2002/ProjectManagementApp)** *(Internship)*
+Implemented data collection through SerpAPI, unified data processing, Elasticsearch storage and indexing, NLP preprocessing, ML/DL model training and evaluation, and automated HTML/PDF reporting with sentiment analytics and negative-topic identification.
 
-Full-stack collaborative platform for academic project management. React, Node.js, and Socket.io real-time features.
+The project also includes automated testing, reproducibility controls, Docker-based deployment, and monitoring.
+
+`Python` `Scikit-learn` `TensorFlow` `spaCy` `NLP` `Elasticsearch` `Kibana` `Flask` `Docker` `SerpAPI`
+
+### [EPMA — Project Management Platform](https://github.com/rayenayed2002/ProjectManagementApp)
+*Internship Project*
+
+Full-stack collaborative platform for academic project management. Developed using React and Node.js, with real-time features powered by Socket.io.
 
 `React` `Node.js` `Express.js` `MongoDB` `Socket.io`
 
-**[GoldenTouch — Event Planning App](https://github.com/rayenayed2002/GoldenTouch-Symfony)**
+### [GoldenTouch — Event Planning App](https://github.com/rayenayed2002/GoldenTouch-Symfony)
 
-Full-featured event management system with Stripe payments, Google Calendar synchronization, QR codes, and Gemini AI integration. Built with Symfony.
+Full-featured event management system with Stripe payments, Google Calendar synchronization, QR codes, and Gemini AI integration.
 
 `Symfony` `PHP` `MySQL` `Stripe` `Google Calendar API` `Gemini AI`
 
-**Microservices App** *(ISET Bizerte — Final Year Project)*
+### Microservices App
+*ISET Bizerte — Final Year Project*
 
-Distributed architecture across Angular web, Android mobile, and Spring Boot microservices backend.
+Distributed application built around an Angular web application, an Android mobile application, and a Spring Boot microservices backend.
 
-`Angular` `Android` `Spring Boot` `Microservices`
+`Angular` `Android` `Java` `Spring Boot` `Microservices`
 
 ---
 
-## Technical Stack
+## Technical Skills
 
-**MLOps & Machine Learning**
+**ML Engineering & MLOps**
 
-`Python` `MLflow` `FastAPI` `Docker` `Apache Airflow` `n8n` `Scikit-learn` `TensorFlow` `Pydantic` `Prometheus` `Grafana`
+`Python` `Scikit-learn` `TensorFlow` `MLflow` `FastAPI` `Flask` `Docker` `Prometheus` `Grafana` `Pydantic`
 
-**Data Engineering & BI**
+**Data Engineering & Processing**
 
-`Elasticsearch` `Kibana` `Talend` `Power BI` `SQL` `MongoDB` `SerpAPI`
+`SQL` `Elasticsearch` `Kibana` `Apache Airflow` `Talend` `Pandas` `MongoDB`
 
 **NLP & AI**
 
 `spaCy` `TF-IDF` `Word2Vec` `Keras` `BERT` `Sentiment Analysis`
 
-**Backend & Other**
+**Software Engineering**
 
-`Node.js` `Express.js` `React` `REST APIs` `Git` `Linux`
+`Python` `JavaScript` `Node.js` `Express.js` `React` `Symfony` `Spring Boot` `REST APIs`
+
+**Tools & Platforms**
+
+`Git` `GitHub` `Linux` `Power BI` `Docker Compose`
 
 ---
 
 ## Education
 
-**ESPRIT Engineering School** — Computer Engineering
+**ESPRIT Engineering School — Tunisia**
 
-Final Year (3rd Year) · Tunisia
+Computer Engineering | Final Year (3rd Year)
 
-**ISET Bizerte** — Systems & Information Development
+**ISET Bizerte — Tunisia**
 
-3 years of study · 4 internships completed
+Systems & Information Development | 3 years of study
 
 ---
 
 ## Open To
 
-Internship opportunities in **MLOps**, **Machine Learning Engineering**, or **Data Engineering**.
+Internship opportunities in:
 
-[LinkedIn](https://www.linkedin.com/in/ayed-rayen-20594b238/) · [Email](mailto:ayed.rayen09@gmail.com)
+- ML Engineering
+- MLOps Engineering
+- Data Engineering
+
+---
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/rayen-ayed-20594b238/) · [Email](mailto:ayed.rayen09@gmail.com)
